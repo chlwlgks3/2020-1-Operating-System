@@ -21,6 +21,14 @@
 ## Hw3(B)  
 ![image](https://user-images.githubusercontent.com/64358334/102442350-8f9a5f00-4067-11eb-9db2-a3325999f12b.png)  
 
+## 실습과제1  
+![image](https://user-images.githubusercontent.com/64358334/102442417-b6589580-4067-11eb-8e98-cf0d895b3190.png)  
+
+## 실습과제2  
+![image](https://user-images.githubusercontent.com/64358334/102442530-e9028e00-4067-11eb-8b7e-7d12c091b1bf.png)  
+
+
+
 
 
 
