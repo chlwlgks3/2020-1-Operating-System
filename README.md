@@ -16,7 +16,12 @@
 ## Hw3  
 ![image](https://user-images.githubusercontent.com/64358334/102441995-bb691500-4066-11eb-8e5b-77ca0082058d.png)  
 
-한글파일은 각 파일들에 대해서 자세하게 설명한것입니다. test파일은 리눅스실행파일입니다.
+한글파일은 각 파일들에 대해서 자세하게 설명한것입니다. test파일은 리눅스실행파일입니다.  
+
+## Hw3(B)  
+![image](https://user-images.githubusercontent.com/64358334/102442350-8f9a5f00-4067-11eb-9db2-a3325999f12b.png)  
+
+
 
 
 
