@@ -11,6 +11,12 @@
 ## Hw2  
 ![image](https://user-images.githubusercontent.com/64358334/102441875-8230a500-4066-11eb-86eb-6762936ef457.png)  
 
+한글파일은 각 파일들에 대해서 자세하게 설명한것입니다. sub,mul,add등의 파일은 리눅스 실행파일입니다.
+
+## Hw3  
+![image](https://user-images.githubusercontent.com/64358334/102441995-bb691500-4066-11eb-8e5b-77ca0082058d.png)  
+
+한글파일은 각 파일들에 대해서 자세하게 설명한것입니다. test파일은 리눅스실행파일입니다.
 
 
 
